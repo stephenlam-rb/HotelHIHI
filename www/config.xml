@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="hk.com.redbrick.HotelHIHI" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>HotelHIHI</name>
+    <description>
+        Find hotel to hihi.
+    </description>
+    <author email="enquiry@redbrick.com.hk" href="http://www.redbrick.com.hk">
+        Red Brick Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+	<preference name="orientation" value="portrait" />
+	<preference name="fullscreen" value="true" />
+	<preference name="DisallowOverscroll" value="true"/>
+	<preference name="HideKeyboardFormAccessoryBar" value="true"/>
+</widget>
